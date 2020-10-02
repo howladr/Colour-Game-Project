@@ -1,2 +1,2 @@
 # Colour-Game-Project
- An RGB Colour Game
+ An interactive RGB Colour Game using DOM manipulation
